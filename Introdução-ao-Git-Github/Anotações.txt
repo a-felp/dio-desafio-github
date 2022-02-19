@@ -1,0 +1,6 @@
+O Git é um software de versionamento de códigos distribuido, ou seja, tem
+a finalidade de gerenciar diferentes versões no desenvolvimento de um código.
+Ele foi criado por Linus Torvalds em 2005 diante de sua insatisfação com outros
+sistemas de controle de versão.
+
+Link para download: https://git-scm.com/downloads

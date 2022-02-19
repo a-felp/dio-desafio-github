@@ -1,0 +1,15 @@
+Linguagens de programação e Portugol
+ 
+A função das linguagens de programação é servir de um meio de comunicação entre computadores e humanos.
+ 
+As linguagens podem ser de alto e baixo nível
+Alto nível: são aquelas cujas sintaxe se aproxima mais da nossa linguagem e se distanciam mais da linguagem de maquina. Ex: a grande maioria como C, C#, javascrip, PHP, C++, python.
+Baixo nível: aquela que se aproxima mais da linguagem de maquina. Essas são a que você precisa ter o conhecimento direto da arquitetura do computador.Ex: assembly
+
+Existem as linguagens de programação compiladas e as interpretadas
+Compiladas: é uma linguagem em que o código fonte é executado diretamente pelo sistema operacional ou pelo processador, após ser traduzido por meio de um processo Chamado compilação. Ex: c#,visual basic, delph, C++
+Interpretadas: linguagem de programação em que o código fonte é executado por um programa de computador chamado interpretador que em seguida é executado pelo sistema operacional ou pelo processador.Ex: PHP, Javascript, python
+
+Portugol
+Definição: é uma pseudolinguagem que permite ao leitor desenvolver algoritmos estruturados em português de forma simples e intuitiva, independentemente da linguagem. 
+É uma pseudolinguagem que permite ao programador pensar no problema em si e não no equipamento que irá executar o algoritmo.

@@ -1,0 +1,22 @@
+Aula 1 – Introdução e objetivos
+O que é estrutura de dados
+É uma estrutura organizada de dados na memoria de um computador ou em qualquer dispositivo de armazenamento, de forma que os dados possam ser utilizados de forma correta.
+
+ Essas estruturas encontram muitas aplicações no desenvolvimento de sistemas, sendo que algumas são altamente especializadas e utilizadas em tarefas especificas.
+Usando as estruturas adequadas através de algoritmos, podemos trabalhar com uma grande quantidade de dados, como aplicações em banco de dados ou serviço de busca.
+
+Algoritmos 
+Os algoritmos são um conjunto de instruções estruturadas e ordenadas, seu objetivo é realizar uma tarefa ou operação especifica
+Os algoritmos são utilizados para manipular os dados nas estruturas de varias formas, como por exemplo: inserir, excluir, procurar e ordenar dados.
+Em uma estrutura de dados deve os saber como realizar um determinado conjunto de operações básicas, como: inserir dados, excluir dados, localizar um elemento, percorrer todos os itens constituintes da estrutura para visualização e classificar, que se resume em  colocar os itens de dados em uma determinada ordem(numérica, alfabética e etc.)
+
+Principais estruturas de dados
+1.	Vetores e matrizes
+2.	Registros 
+3.	Lista
+4.	Pilha
+5.	Fila
+6.	Arvore
+7.	Tabela hash 
+8.	Grafos 
+
